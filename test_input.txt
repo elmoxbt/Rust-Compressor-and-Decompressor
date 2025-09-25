@@ -1,0 +1,4 @@
+Hello, World! This is a test file for compression.
+It contains some sample text that will be compressed using gzip.
+The compression algorithm should reduce the file size.
+This is just sample data for testing purposes.
